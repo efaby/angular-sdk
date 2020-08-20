@@ -14,7 +14,7 @@
 		"test": "mocha --timeout 5000"
 	},
 	"dependencies": {
-		"bcrypt": "^3.0.6",
+		"bcrypt": "^5.0.0",
 		"body-parser": "^1.5.1",
 		"cors": "^2.8.5",
 		"express": "^4.16.4",
